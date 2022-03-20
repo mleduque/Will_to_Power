@@ -338,7 +338,7 @@ Using this ability costs 20 points, and increases the psion's fatigue.~
 
 Using this ability costs 20 points, and increases the psion's fatigue.~
 @9021  = ~Energy Construct~
-@9022  = ~Energy Construct: 
+@9022  = ~Energy Construct: this ability creates an burning construct made of energy.
 
 Using this ability costs 20 points, and increases the psion's fatigue.~
 @9031  = ~Fission~
@@ -355,7 +355,7 @@ Using this ability costs 20 points, and increases the psion's fatigue.~
 Maintaining this ability costs 20 points; upon releasing the exoskeleton, the psion's fatigue is increased.~
 @9053  = ~Cancel Exoskeleton~
 @9061  = ~Elemental Composition~
-@9062  = ~Elemental Composition: this power allows the psion to infuse his very body with elemental energy into a form  wrap <PRO_HISHER> body with layers of telekinetic force, creating a near-impenetrable shell of pure will. Visually, <PRO_HISHER> body seems to be encased in a dull, metallic sheen. While 
+@9062  = ~Elemental Composition: this power allows the psion to infuse his very body with elemental energy.
 
 Maintaining this ability costs 20 points; upon returning to <PRO_HISHER> normal form, the psion's fatigue is increased.~
 @9063  = ~Cancel Elemental Composition~
